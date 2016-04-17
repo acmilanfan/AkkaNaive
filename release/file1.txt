@@ -1,0 +1,6 @@
+Wheather:Temperature:Humidity:Wind:Game
+Sunny:Hot:Hight:Yes:No
+Cloudy:Hot:Hight:No:Yes
+Rainy:Cold:Normal:No:Yes
+Rainy:Normal:Hight:Yes:No
+Sunny:Normal:Normal:Yes:Yes
